@@ -5,4 +5,4 @@ https://www.kaggle.com/code/farzadnekouei/heart-disease-prediction/notebook?sele
 This program requires Python Pandas, NumPy, and Scikit-learn in order to function.
 Thank you for your attention.
 
-- Seohyun
+~ Seohyun
