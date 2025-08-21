@@ -1,3 +1,5 @@
+<b>Description:</b> Prompts user for info on various bodily conditions of a patient, then returns a binary output of whether the patient in question has a heart disease or not with an accuracy of ca. 85.246 %. Training method: Logistic Regression.
+
 All the source code is written in `main.py`.<br>
 This program requires Python Pandas, NumPy, and Scikit-learn in order to function.
 
