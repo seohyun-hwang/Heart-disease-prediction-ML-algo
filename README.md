@@ -1,3 +1,5 @@
+All the source code is written in main.py.
+
 The heart_disease_data.csv file is taken from a Kaggle post on Heart Disease Prediction.
 Training/test data imported from Kaggle:
 https://www.kaggle.com/code/farzadnekouei/heart-disease-prediction/notebook?select=heart.csv
